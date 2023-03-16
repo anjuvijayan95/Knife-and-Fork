@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&family=Poppins:wght@400;500;600;700&display=swap');
+
+.banner1{
+    background-image: url('https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX32891659.jpg');
+    background-attachment: fixed;
+    height: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-position: top 30% right 30%;
+    box-shadow: 0 10px 40px white;
+    margin-bottom: 4rem;
+}
+
+h1{
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Lemon', cursive;
+    text-decoration: underline;
+    color: rgb(243, 240, 233);
+}
+.wrapper{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+padding: 1rem;
+}
+
+.card{
+    margin: 1rem;
+    
+}
